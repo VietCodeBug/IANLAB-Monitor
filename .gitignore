@@ -1,0 +1,8 @@
+# Build results
+**/bin/
+**/obj/
+dist/
+.vs/
+*.user
+*.suo
+*.log
